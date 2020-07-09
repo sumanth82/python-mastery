@@ -5,7 +5,7 @@ class Cat:
         self.name = name
         self.age = age
 
-    
+        
 
 # 1 Instantiate the Cat object with 3 cats
 
