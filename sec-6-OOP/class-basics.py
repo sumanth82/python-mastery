@@ -26,13 +26,4 @@ print(type(obj1))
 obj2 = BigObject()
 obj3 = BigObject()
 
-
 # O/P: <class '__main__.BigObject'>
-
-
-
-
-
-
-
-
