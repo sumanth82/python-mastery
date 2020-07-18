@@ -40,3 +40,5 @@ print(wizard1.email)            # Error - AttributeError: 'Guest' object has no 
 # Format:
 
 #super().__init__(email)
+
+# introspection - ability to find the type of an object at runtime (when code is running)
