@@ -2,6 +2,8 @@
 # This is a smaller, lean framework;
 # Django is a bigger framework
 
+# flask essentially converts - a text into a browser readable format like - text/html 
+
 # Installation Steps:
 
 # cd to root-level - (i.e sec19-web-development)
