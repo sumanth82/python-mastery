@@ -121,6 +121,15 @@ message: sdfds
 # Instead of saving the data in .txt file, save it in a .csv file/format
 #writes the form data to database.csv file
 
+# building-a-portfolio-8
+
+# Host your app on pythonanywhere.com
+
+# To load the used python modules to run your portfolio.py file, which works just fine in our virtual environment run:
+
+#pip3 freeze > requirements.txt
+
+
 
 
 
