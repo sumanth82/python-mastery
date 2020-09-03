@@ -118,5 +118,9 @@ message: sdfds
 
 # building-a-portfolio-7 ; Instead of writing the file to txt. write it to csv
 
+# Instead of saving the data in .txt file, save it in a .csv file/format
+#writes the form data to database.csv file
+
+
 
 
