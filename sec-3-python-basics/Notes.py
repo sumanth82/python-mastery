@@ -10,7 +10,7 @@ print(int('0b101', 2))  # O/P: 5
 
 _user_iq=190  # This denotes a PRIVATE Variable in Python i.e a varibale which starts with a _ ;
 
-
+# Some methods return None while a few return something 
 
 
 
