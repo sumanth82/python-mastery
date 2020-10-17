@@ -13,5 +13,9 @@ _user_iq=190  # This denotes a PRIVATE Variable in Python i.e a varibale which s
 # Some methods return None while a few return something 
 
 
+### Lists v/s Dict 
+
+# Lists are ordered, Just an index and some value
+# dict has no ordered, Holds lot more information 
 
 
