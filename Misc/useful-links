@@ -1,4 +1,7 @@
 
+# REPL - Read, Eval, Print, Look 
+
+
 Online coding IDE's - https://glot.io/
 https://repl.it/
 
@@ -17,6 +20,16 @@ https://zerotomastery.io/blog/
 Floating Point:
 
 https://www.youtube.com/watch?v=PZRI1IfStY0
+
+# PEP - 8 ; Python Enhancement Proposals
+
+https://www.python.org/dev/peps/pep-0008/
+
+Coding format for Python and the standards 
+
+In VS Code, select any Python file; Go to command palette - Format Document ; It asks to install Formatter pep8 package; Just install;
+
+Then Go to Preferences --> Format --> select 'Format on Save'
 
 
 

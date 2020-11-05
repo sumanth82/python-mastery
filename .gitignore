@@ -9,4 +9,7 @@ eggs/
 lib/
 lib64/
 
+*.vscode
+
+
 
