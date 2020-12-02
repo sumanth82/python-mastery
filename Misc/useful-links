@@ -30,10 +30,30 @@ Coding format for Python and the standards
 In VS Code, select any Python file; Go to command palette - Format Document ; It asks to install Formatter pep8 package; Just install;
 Then Go to Preferences --> Format --> select 'Format on Save'
 
-
 # Regular Expressions 
 
 https://regex101.com
+
+# Hacker News/ Development Industry for web scraping: 
+
+https://news.ycombinator.com
+
+# WEBSCRAPING USE-CASES:
+
+https://www.synerzip.com/blogs/web-scraping-introduction-applications-and-best-practices/#:~:text=Web%20scraping%20typically%20extracts%20large,show%20data%20from%20a%20website.
+
+# To see what data is allowed/not allowed on any website to be scraped: 
+
+https://www.airbnb.com/robots.txt
+
+# API's - StarWars API 
+
+https://swapi.dev/
+
+ # JSON Place Holder 
+ 
+ https://jsonplaceholder.typicode.com/
+
 
 
 
